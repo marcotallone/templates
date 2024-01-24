@@ -1,3 +1,3 @@
 # Templates
 
-Templates I use for different types coding projects.
+Templates I use for different types of coding projects.
