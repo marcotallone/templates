@@ -1,10 +1,10 @@
 # Instructions
 
-This is just a template for my final exam of the Advanced Programming Course held at UniTs, SISSA. It is not by any means the only/the correct way to organize the second part of this exam but it is what I did and what I would suggest others to do to keep all the code organized and to make overall compilation easier. This will not automatically guarantee to pass the exam of course but it will give you more time to focus on the code itself rather than on compilation errors and documentation writing...
+This is just a template for a small `C++/Python` project inspired from my final exam of the Advanced Programming Course held at UniTs, SISSA.
 
 In order to use this template you should follow the instructions below:
 
-* copy the `exam_template` folder in this repository on your machine and change its name according to what the professor asks.
+* copy the `small_template` folder in this repository on your machine and change its name according.
 
 * implement your header file(s) in the `include/` folder (name of the header can be changed)
 
@@ -32,7 +32,7 @@ To conclude also remember to update the README with the following:
 > 🚨 **WARNINGS**:
 >
 > * **DO NOT CHANGE** THE NAMES OF THE FOLDERS or THE POSITIONS OF THE FILES: that might lead to errors and it might require to rewrite the cmake...
-> * ⚠️⚠️⚠️ **DO NOT COPY THIS README IN THE EXAM FOLDER!** ⚠️⚠️⚠️
-> * This set-up has been tested and I've used it myself successfully, but I suggest you test it before the exam so you can get familiar using it. Right now this template only works for exams in which a cmake+pybinding set-up is required and it's only able to compile the C++ code into a shared library (small modifications are required for a static one). You're more than welcome to signal any problem by opening an issue in this repository.
+> * ⚠️⚠️⚠️ **DO NOT COPY THIS README IN THE FINAL PROJECT FOLDER!** ⚠️⚠️⚠️
+> * This set-up has been tested and I've used it myself successfully, but I suggest you test it before the exam so you can get familiar using it. Right now this template only works for a cmake+pybinding set-up and it's only able to compile the C++ code into a shared library (small modifications are required for a static one). You're more than welcome to signal any problem by opening an issue in this repository.
 
 Good Luck 🍀
